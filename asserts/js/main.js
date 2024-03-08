@@ -3,8 +3,7 @@ var aText = new Array(
 "There are only 10 types of people in the world:", 
 "Those who understand binary, and those who don't :)",
     "",
-"Hello there!, I'am Aashish.",
-"Thanks for looking into my profile"
+"Welcome to my portfolio. I'm Aashish, a Computer Science Engineer driven by a passion for Data Science and Machine Learning.",
 );
 var iSpeed = 100; // time delay of print out
 var iIndex = 0; // start printing array at this posision
